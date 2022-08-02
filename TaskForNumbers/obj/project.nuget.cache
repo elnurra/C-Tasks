@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0q78Zivr+pH9Qu9r7JFBZs6Ig2oMW1bMEW1HL8hg5VA4BhR7spcE9Al0IOmOribt2d78PG3ZBEEvntQD03MjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Документы\\Code Academy\\C# Tasks\\TaskForNumbers\\TaskForNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

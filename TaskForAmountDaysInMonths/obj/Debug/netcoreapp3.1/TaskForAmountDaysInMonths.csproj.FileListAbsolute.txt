@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\bin\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.exe
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\bin\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.deps.json
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\bin\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\bin\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\bin\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.dll
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\bin\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.dll
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\C# Tasks\TaskForAmountDaysInMonths\obj\Debug\netcoreapp3.1\TaskForAmountDaysInMonths.genruntimeconfig.cache
