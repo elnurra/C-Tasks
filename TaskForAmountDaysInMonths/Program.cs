@@ -11,7 +11,7 @@ namespace TaskForAmountDaysInMonths
             switch (month)
             {
                 case "February":
-                    Console.WriteLine(a);
+                    Console.WriteLine(a + "or 29");
                  break;
                 case "April":
                     Console.WriteLine(b);
